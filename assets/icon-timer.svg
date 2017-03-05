@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>D9607B80-6C16-43BC-813B-9BDB8994E770</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="corporate-pricingPage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="corporate-pricing" transform="translate(-183.000000, -628.000000)" stroke="#231F1F">
+            <g id="icon-timer" transform="translate(184.000000, 628.000000)">
+                <polyline id="Stroke-4056" points="16.5 0.5 11.5 12 16.5 23.5 1.5 23.5 6.5 12 1.5 0.5"></polyline>
+                <polygon id="Stroke-4057" fill="#FCC366" points="6.5 5.5 11.5 5.5 9 11"></polygon>
+                <polygon id="Stroke-4058" fill="#FCC366" points="13 21.5 5 21.5 9 15"></polygon>
+                <path d="M0,0.5 L18,0.5" id="Stroke-4059"></path>
+                <path d="M0,23.5 L18,23.5" id="Stroke-4060"></path>
+            </g>
+        </g>
+    </g>
+</svg>
